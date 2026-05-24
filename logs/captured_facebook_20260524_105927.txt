@@ -1,0 +1,18 @@
+
+================================================================================
+SESSION ID: 8d8b58d2
+TIMESTAMP: 2026-05-24 11:00:22
+VICTIM IP: 192.168.1.67
+PLATFORM:  Facebook
+================================================================================
+📋 CREDENTIALS:
+   Email/Username: Jee
+   Phone:          
+   Password:       123
+   2FA Code:       N/A
+📍 LOCATION:
+   Local Network, Local, Classroom
+💻 DEVICE:
+   Browser: Chrome 147.0
+   OS:      Linux
+================================================================================
